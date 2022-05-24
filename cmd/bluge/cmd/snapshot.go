@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/blugelabs/bluge/index"
+	"github.com/appbaseio/bluge/index"
 
 	"github.com/spf13/cobra"
 )

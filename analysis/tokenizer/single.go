@@ -15,7 +15,7 @@
 package tokenizer
 
 import (
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 type SingleTokenTokenizer struct{}

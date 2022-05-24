@@ -20,7 +20,7 @@ import (
 
 	segment "github.com/blugelabs/bluge_segment_api"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 type Location struct {

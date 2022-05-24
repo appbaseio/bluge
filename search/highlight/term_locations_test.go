@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 func TestTermLocationOverlaps(t *testing.T) {

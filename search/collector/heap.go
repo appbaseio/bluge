@@ -17,7 +17,7 @@ package collector
 import (
 	"container/heap"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type collectStoreHeap struct {

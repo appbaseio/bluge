@@ -24,10 +24,10 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/blugelabs/bluge/search"
-	"github.com/blugelabs/bluge/search/aggregations"
+	"github.com/appbaseio/bluge/search"
+	"github.com/appbaseio/bluge/search/aggregations"
 
-	"github.com/blugelabs/bluge"
+	"github.com/appbaseio/bluge"
 )
 
 var segType = flag.String("segType", "", "force scorch segment type")

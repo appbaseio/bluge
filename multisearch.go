@@ -17,7 +17,7 @@ package bluge
 import (
 	"context"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type MultiSearcherList struct {

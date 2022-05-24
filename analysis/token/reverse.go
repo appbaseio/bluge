@@ -18,7 +18,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 type ReverseFilter struct{}

@@ -17,7 +17,7 @@ package it
 import (
 	"github.com/blevesearch/snowballstem"
 	"github.com/blevesearch/snowballstem/italian"
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 type ItalianStemmerFilter struct {

@@ -17,7 +17,7 @@ package es
 import (
 	"bytes"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 type SpanishLightStemmerFilter struct {

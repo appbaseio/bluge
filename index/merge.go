@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/RoaringBitmap/roaring"
-	"github.com/blugelabs/bluge/index/mergeplan"
+	"github.com/appbaseio/bluge/index/mergeplan"
 	segment "github.com/blugelabs/bluge_segment_api"
 )
 

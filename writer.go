@@ -19,7 +19,7 @@ import (
 
 	segment "github.com/blugelabs/bluge_segment_api"
 
-	"github.com/blugelabs/bluge/index"
+	"github.com/appbaseio/bluge/index"
 )
 
 type Writer struct {

@@ -1,7 +1,7 @@
 package ga
 
 import (
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 // this content was obtained from:

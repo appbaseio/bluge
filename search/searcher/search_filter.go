@@ -15,7 +15,7 @@
 package searcher
 
 import (
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 // FilterFunc defines a function which can filter documents

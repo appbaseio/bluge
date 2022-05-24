@@ -19,9 +19,9 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/blugelabs/bluge/search/aggregations"
+	"github.com/appbaseio/bluge/search/aggregations"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type createCollector func() search.Collector

@@ -19,7 +19,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 func TestRegexpTokenizer(t *testing.T) {

@@ -17,7 +17,7 @@ package fa
 import (
 	"bytes"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 const (

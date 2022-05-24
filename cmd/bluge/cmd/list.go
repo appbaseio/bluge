@@ -17,7 +17,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/blugelabs/bluge/index"
+	"github.com/appbaseio/bluge/index"
 
 	"github.com/spf13/cobra"
 )

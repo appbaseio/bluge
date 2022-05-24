@@ -18,9 +18,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blugelabs/bluge/search/similarity"
+	"github.com/appbaseio/bluge/search/similarity"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 func TestTermRangeSearch(t *testing.T) {

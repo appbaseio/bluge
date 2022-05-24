@@ -17,7 +17,7 @@ package aggregations
 import (
 	"math"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type SingleValueMetric struct {

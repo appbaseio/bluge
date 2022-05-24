@@ -19,9 +19,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/blugelabs/bluge/search/aggregations"
+	"github.com/appbaseio/bluge/search/aggregations"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 func makeMatches(n int, score float64) (rv []*search.DocumentMatch) {

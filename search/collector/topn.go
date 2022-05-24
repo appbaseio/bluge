@@ -17,7 +17,7 @@ package collector
 import (
 	"context"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type collectorStore interface {

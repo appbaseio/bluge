@@ -17,7 +17,7 @@ package de
 import (
 	"bytes"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 type GermanLightStemmerFilter struct {

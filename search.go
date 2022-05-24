@@ -15,9 +15,9 @@
 package bluge
 
 import (
-	"github.com/blugelabs/bluge/search"
-	"github.com/blugelabs/bluge/search/aggregations"
-	"github.com/blugelabs/bluge/search/collector"
+	"github.com/appbaseio/bluge/search"
+	"github.com/appbaseio/bluge/search/aggregations"
+	"github.com/appbaseio/bluge/search/collector"
 )
 
 type SearchRequest interface {

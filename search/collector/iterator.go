@@ -15,7 +15,7 @@
 package collector
 
 import (
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type TopNIterator struct {

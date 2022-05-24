@@ -1,4 +1,4 @@
-module github.com/blugelabs/bluge
+module github.com/appbaseio/bluge
 
 go 1.13
 

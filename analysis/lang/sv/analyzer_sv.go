@@ -15,9 +15,9 @@
 package sv
 
 import (
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/token"
-	"github.com/blugelabs/bluge/analysis/tokenizer"
+	"github.com/appbaseio/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis/token"
+	"github.com/appbaseio/bluge/analysis/tokenizer"
 )
 
 func Analyzer() *analysis.Analyzer {

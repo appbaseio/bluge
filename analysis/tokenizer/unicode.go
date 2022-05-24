@@ -17,7 +17,7 @@ package tokenizer
 import (
 	"github.com/blevesearch/segment"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 const maxEstimatedRemainingSegments = 1000

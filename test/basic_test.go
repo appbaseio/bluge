@@ -17,10 +17,10 @@ package test
 import (
 	"time"
 
-	"github.com/blugelabs/bluge/search/highlight"
+	"github.com/appbaseio/bluge/search/highlight"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis/lang/en"
+	"github.com/appbaseio/bluge"
+	"github.com/appbaseio/bluge/analysis/lang/en"
 )
 
 var basicBirthday time.Time

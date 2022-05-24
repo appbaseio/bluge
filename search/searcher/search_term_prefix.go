@@ -15,7 +15,7 @@
 package searcher
 
 import (
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 func NewTermPrefixSearcher(indexReader search.Reader, prefix, field string,

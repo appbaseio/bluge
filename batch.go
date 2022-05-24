@@ -15,7 +15,7 @@
 package bluge
 
 import (
-	"github.com/blugelabs/bluge/index"
+	"github.com/appbaseio/bluge/index"
 )
 
 const _idField = "_id"

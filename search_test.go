@@ -21,19 +21,19 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/blugelabs/bluge/search/aggregations"
-	"github.com/blugelabs/bluge/search/highlight"
+	"github.com/appbaseio/bluge/search/aggregations"
+	"github.com/appbaseio/bluge/search/highlight"
 
-	"github.com/blugelabs/bluge/analysis/char"
+	"github.com/appbaseio/bluge/analysis/char"
 
-	"github.com/blugelabs/bluge/numeric/geo"
+	"github.com/appbaseio/bluge/numeric/geo"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/lang/en"
-	"github.com/blugelabs/bluge/analysis/token"
-	"github.com/blugelabs/bluge/analysis/tokenizer"
+	"github.com/appbaseio/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis/lang/en"
+	"github.com/appbaseio/bluge/analysis/token"
+	"github.com/appbaseio/bluge/analysis/tokenizer"
 )
 
 // https://github.com/blevesearch/bleve/issues/954

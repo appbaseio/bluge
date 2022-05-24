@@ -18,12 +18,12 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blugelabs/bluge/search/similarity"
+	"github.com/appbaseio/bluge/search/similarity"
 
 	segment "github.com/blugelabs/bluge_segment_api"
 
-	"github.com/blugelabs/bluge/numeric/geo"
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/numeric/geo"
+	"github.com/appbaseio/bluge/search"
 )
 
 func TestSimpleGeoPolygons(t *testing.T) {

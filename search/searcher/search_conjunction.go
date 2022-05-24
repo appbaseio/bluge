@@ -17,7 +17,7 @@ package searcher
 import (
 	"sort"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 type ConjunctionSearcher struct {

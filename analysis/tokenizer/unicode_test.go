@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/blevesearch/segment"
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/appbaseio/bluge/analysis"
 )
 
 func TestUnicode(t *testing.T) {

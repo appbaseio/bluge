@@ -17,7 +17,7 @@ package highlight
 import (
 	"testing"
 
-	"github.com/blugelabs/bluge/search"
+	"github.com/appbaseio/bluge/search"
 )
 
 func TestSimpleFragmentScorer(t *testing.T) {
