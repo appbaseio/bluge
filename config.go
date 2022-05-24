@@ -18,13 +18,15 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/appbaseio/bluge/index"
-
-	"github.com/appbaseio/bluge/search"
-	"github.com/appbaseio/bluge/search/similarity"
-
 	"github.com/appbaseio/bluge/analysis"
 	"github.com/appbaseio/bluge/analysis/analyzer"
+	"github.com/appbaseio/bluge/index"
+	"github.com/appbaseio/bluge/search"
+	"github.com/appbaseio/bluge/search/similarity"
+	// "github.com/appbaseio/bluge/search"
+	// "github.com/appbaseio/bluge/search/similarity"
+	// "github.com/appbaseio/bluge/analysis"
+	// "github.com/appbaseio/bluge/analysis/analyzer"
 )
 
 type Config struct {

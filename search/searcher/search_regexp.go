@@ -17,7 +17,7 @@ package searcher
 import (
 	"regexp/syntax"
 
-	"github.com/blevesearch/vellum/regexp"
+	"github.com/appbaseio/vellum/regexp"
 	"github.com/appbaseio/bluge/search"
 )
 

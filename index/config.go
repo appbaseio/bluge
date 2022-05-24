@@ -20,7 +20,7 @@ import (
 	segment "github.com/blugelabs/bluge_segment_api"
 
 	"github.com/appbaseio/bluge/index/mergeplan"
-	"github.com/blugelabs/ice"
+	"github.com/appbaseio/ice"
 )
 
 type Config struct {

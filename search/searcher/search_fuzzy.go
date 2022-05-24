@@ -20,8 +20,8 @@ import (
 
 	segment "github.com/blugelabs/bluge_segment_api"
 
-	"github.com/blevesearch/vellum"
-	"github.com/blevesearch/vellum/levenshtein"
+	"github.com/appbaseio/vellum"
+	"github.com/appbaseio/vellum/levenshtein"
 	"github.com/appbaseio/bluge/search"
 )
 
